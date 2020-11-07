@@ -1,0 +1,9 @@
+read(a);
+read(b);
+c := a & b;
+d := a | b;
+e := ~a &b;
+write(c);
+write(d);
+write(e);
+end
